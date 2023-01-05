@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a computer engineer and junior software developer with a passion for building innovative solutions to complex problems. I have been developing myself with patika.com, a platform for learning and advancing in the field of computer science.<br><br>Throughout my career, I have gained experience in a variety of programming languages and frameworks, including .Net Core and Angular. I am constantly looking to expand my skill set and stay up to date with the latest technologies.<br><br>I am open to new opportunities and am always looking for ways to apply my skills to make a positive impact. Feel free to reach out to me if you have any questions or would like to work together. Thank you for visiting my profile!
+Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net Core and Angular, and have gained experience in these technologies.
+
+Throughout my career, I have gained experience in various programming languages and frameworks and aim to continually expand my skill set. I use platforms like patika.com to continue learning in the field of computer science.
+
+I am open to new opportunities and always looking for ways to apply my skills to create a positive impact. If a suitable position becomes available, I would be happy to apply
 
 
 ## 🌐 Socials:
