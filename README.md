@@ -5,6 +5,7 @@ Throughout my career, I have gained experience in various programming languages 
 
 I am open to new opportunities and always looking for ways to apply my skills to create a positive impact. If a suitable position becomes available, I would be happy to apply
 
+[My CV](https://drive.google.com/drive/folders/1tiJOQtOpbe_XWbtZLHSNp83wON0RZhi3?usp=sharing)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MuazErdemYiğit#8858) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muazerdemyigit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muaz-erdem-yigit/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@muazerdemyigit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20896184) 
