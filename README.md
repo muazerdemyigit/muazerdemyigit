@@ -18,7 +18,7 @@ I am open to new opportunities and always looking for ways to apply my skills to
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge&color=blueviolet)
 
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=muazerdemyigit&icon=2&color=8)](https://visitcount.itsvg.in)-->
