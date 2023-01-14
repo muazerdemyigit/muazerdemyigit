@@ -18,7 +18,9 @@ I am open to new opportunities and always looking for ways to apply my skills to
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
+![counter](https://en9lr9ei0t2a04o.m.pipedream.net)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=muazerdemyigit&icon=2&color=8)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=muazerdemyigit&icon=2&color=8)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
