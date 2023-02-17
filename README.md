@@ -12,8 +12,15 @@ I am open to new opportunities and always looking for ways to apply my skills to
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+<details>
+<summary>:point_down: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazerdemyigit&layout=compact" >
+</details>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muazerdemyigit&theme=midnight-purple&hide_border=false)<br/>
+
+
 
 
 ### ✍️ Random Dev Quote
