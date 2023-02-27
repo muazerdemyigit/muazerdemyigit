@@ -1,3 +1,5 @@
+![giphy (1)](https://user-images.githubusercontent.com/46108683/221549014-c66fb9ec-2380-4d9f-94dc-f1c5cce2e99f.gif)
+
 # 💫 About Me:
 Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net Core and Angular, and have gained experience in these technologies.
 
@@ -29,4 +31,5 @@ I am open to new opportunities and always looking for ways to apply my skills to
 ![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge&color=blueviolet)
 
 ---
+![giphy (2)](https://user-images.githubusercontent.com/46108683/221549328-ff4fa721-04b0-42b5-beaf-489089a9a6d6.gif)
 
