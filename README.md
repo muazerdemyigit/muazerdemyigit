@@ -1,6 +1,8 @@
 ![giphy (1)](https://user-images.githubusercontent.com/46108683/221549014-c66fb9ec-2380-4d9f-94dc-f1c5cce2e99f.gif)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=27&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Hello+World%22))](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge&color=blueviolet)
+
+
 # 💫 About Me:
 Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net Core and Angular, and have gained experience in these technologies.
 
