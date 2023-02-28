@@ -1,5 +1,6 @@
 ![giphy (1)](https://user-images.githubusercontent.com/46108683/221549014-c66fb9ec-2380-4d9f-94dc-f1c5cce2e99f.gif)
 
+![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge&color=blueviolet)
 # 💫 About Me:
 Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net Core and Angular, and have gained experience in these technologies.
 
@@ -14,13 +15,10 @@ I am open to new opportunities and always looking for ways to apply my skills to
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-<details>
-<summary>:point_down: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muazerdemyigit&layout=compact" >
-</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muazerdemyigit&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muazerdemyigit&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
@@ -28,7 +26,7 @@ I am open to new opportunities and always looking for ways to apply my skills to
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-![](https://komarev.com/ghpvc/?username=muazerdemyigit&style=for-the-badge&color=blueviolet)
+
 
 ---
 ![giphy (2)](https://user-images.githubusercontent.com/46108683/221549328-ff4fa721-04b0-42b5-beaf-489089a9a6d6.gif)
