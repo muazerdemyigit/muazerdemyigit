@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net Core and Angular, and have gained experience in these technologies.
+Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net and HTML-CSS, and have gained experience in these technologies.
 
 Throughout my career, I have gained experience in various programming languages and frameworks and aim to continually expand my skill set. I use platforms like [patika.dev](https://patika.dev) to continue learning in the field of computer science.
 
