@@ -12,22 +12,16 @@ I am open to new opportunities and always looking for ways to apply my skills to
 
 [Click To See My CV :open_file_folder:](https://drive.google.com/file/d/1TS_TwhXWi5pEZCaNiqoWLeXG97uJs4WE/view?usp=sharing)
 
+### Projects
+<p align="center"></a><a href="https://github.com/muazerdemyigit/chatt-app"><img title="chatt-app" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=chatt-app&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/ThreeJsPortfolio"><img title="ThreeJsPortfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=ThreeJsPortfolio&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/blog-project-nextjs"><img title="blog-project-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=blog-project-nextjs&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/x-o-x-reactjs"><img title="x-o-x-reactjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=x-o-x-reactjs&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/MZM-Trend-Strategy"><img title="MZM-Trend-Strategy" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=MZM-Trend-Strategy&theme=midnight-purple">
+</p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MuazErdemYiğit#8858) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muazerdemyigit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muaz-erdem-yigit/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@muazerdemyigit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20896184) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muazerdemyigit&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muazerdemyigit&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 
 
 ---
