@@ -13,7 +13,25 @@ I am open to new opportunities and always looking for ways to apply my skills to
 [Click To See My CV :open_file_folder:](https://drive.google.com/file/d/1TS_TwhXWi5pEZCaNiqoWLeXG97uJs4WE/view?usp=sharing)
 
 ## Projects
-<p align="center"></a><a href="https://github.com/muazerdemyigit/chatt-app"><img title="chatt-app" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=chatt-app&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/ThreeJsPortfolio"><img title="ThreeJsPortfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=ThreeJsPortfolio&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/blog-project-nextjs"><img title="blog-project-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=blog-project-nextjs&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/x-o-x-reactjs"><img title="x-o-x-reactjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=x-o-x-reactjs&theme=midnight-purple"></a><a href="https://github.com/muazerdemyigit/MZM-Trend-Strategy"><img title="MZM-Trend-Strategy" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=MZM-Trend-Strategy&theme=midnight-purple">
+<p align="center">
+  </a>
+  <a href="https://github.com/muazerdemyigit/MZM-Trend-Strategy">
+    <img title="MZM-Trend-Strategy" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=MZM-Trend-Strategy&theme=midnight-purple">
+    </a>
+<a href="[https://github.com/muazerdemyigit/x-o-x-reactjs](https://github.com/muazerdemyigit/BtkFinalProject)">
+  <img title="x-o-x-reactjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=BtkFinalProject&theme=midnight-purple"></a>
+</a>
+<a href="https://github.com/muazerdemyigit/chatt-app">
+  <img title="chatt-app" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=chatt-app&theme=midnight-purple">
+</a>
+<a href="https://github.com/muazerdemyigit/ThreeJsPortfolio">
+  <img title="ThreeJsPortfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=ThreeJsPortfolio&theme=midnight-purple">
+</a>
+<a href="https://github.com/muazerdemyigit/blog-project-nextjs">
+  <img title="blog-project-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=blog-project-nextjs&theme=midnight-purple">
+</a>
+<a href="https://github.com/muazerdemyigit/x-o-x-reactjs">
+  <img title="x-o-x-reactjs" src="https://github-readme-stats.vercel.app/api/pin/?username=muazerdemyigit&repo=x-o-x-reactjs&theme=midnight-purple">
 </p>
 
 ## 🌐 Socials:
