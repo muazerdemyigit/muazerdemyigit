@@ -4,11 +4,15 @@
 
 
 # 💫 About Me:
-Hello, my name is Muaz and I am a recent computer science graduate. I am interested in developing with .Net and HTML-CSS, and have gained experience in these technologies.
+Greetings! I'm Muaz, born in 1999 in Kayseri, Turkey. My early childhood was shaped by living in Berlin, Germany. These experiences have enriched my life, allowing me to appreciate different cultures and lifestyles.
 
-Throughout my career, I have gained experience in various programming languages and frameworks and aim to continually expand my skill set. I use platforms like [patika.dev](https://patika.dev) to continue learning in the field of computer science.
+Throughout my educational journey, I've had the privilege of living in various cities, providing me with the opportunity to learn in diverse environments. I successfully graduated from Süleyman Demirel University with a degree in Computer Engineering, completing my program a semester ahead of schedule. My passion for software development led me to work on backend projects, leveraging technologies like ASP.NET and C#.
 
-I am open to new opportunities and always looking for ways to apply my skills to create a positive impact. If a suitable position becomes available, I would be happy to apply
+In addition to my technical background, I have a substantial history in financial markets, actively engaging in algorithmic trading since 2019. I take pride in developing my own algorithms and indicators, which have enhanced my skills in financial analysis and investment strategy formation.
+
+Beyond the professional realm, I'm an ardent traveler and camper. I've explored nearly 60 cities across Turkey and had the privilege of visiting two different countries, Jordan and Germany. These journeys have not only broadened my horizons but also fueled my enthusiasm for adventure and the outdoors.
+
+As someone who cherishes the thrill of discovery and embraces new experiences, I look forward to incorporating this passion into my professional endeavors. The future holds exciting opportunities, and I'm eager to embark on new projects and explore emerging technologies.
 
 [Click To See My CV :open_file_folder:](https://drive.google.com/file/d/1TS_TwhXWi5pEZCaNiqoWLeXG97uJs4WE/view?usp=sharing)
 
