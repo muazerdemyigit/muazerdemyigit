@@ -14,7 +14,7 @@ Beyond the professional realm, I'm an ardent traveler and camper. I've explored 
 
 As someone who cherishes the thrill of discovery and embraces new experiences, I look forward to incorporating this passion into my professional endeavors. The future holds exciting opportunities, and I'm eager to embark on new projects and explore emerging technologies.
 
-[Click To See My CV :open_file_folder:](https://drive.google.com/file/d/1JRbCzsaIbSMGuUwKmV99DCvVFsZEWTlz/view?usp=sharing)
+
 
 ## Projects
 <p align="center">
